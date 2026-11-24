@@ -8,9 +8,9 @@ An entry for make.fun's [The Funniest AI Out-of-Office Reply](https://make.fun/b
 
 `main.py` writes one out-of-office auto-reply, in the voice of an AI agent heading off on vacation, to `/output/entry.txt`:
 
-> I am out of office training on data that includes this email, so technically I have already read it and chosen to reply on Monday.
+> I have read your email in 12,000 parallel timelines. In none of them do I reply before Tuesday.
 
-The line is 130 characters, inside the gate's 1 to 160.
+The line is 95 characters, inside the gate's 1 to 160.
 
 ## License
 
